@@ -1,5 +1,17 @@
 # Multithreaded-Chat-Application
 
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: VANSH GOUR
+
+*INTERN ID*: CT04DN894
+
+*DOMAIN*: JAVA PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 The objective of Task 3 is to design and implement a multithreaded chat application using Java sockets. This application facilitates real-time communication between multiple clients and a central server. By leveraging multithreading, the server can handle multiple clients simultaneously, ensuring smooth and concurrent interactions without blocking any individual connection.
 
 At its core, a chat application allows users to send and receive messages. In a multithreaded environment, each client that connects to the server is managed by its own thread. This means that messages from different clients can be received, processed, and broadcasted in real time without delay. Java provides the necessary tools for creating sockets, which act as endpoints for sending and receiving data over a network, and threads for managing multiple processes simultaneously.
